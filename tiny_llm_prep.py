@@ -1,3 +1,8 @@
+"""
+This section prepares the data 
+
+"""
+
 import os
 import pickle
 
